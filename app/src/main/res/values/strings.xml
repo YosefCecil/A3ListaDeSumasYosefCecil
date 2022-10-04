@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListaDeSumas</string>
+    <string name="listviews_con_sumas">ListViews Con Sumas</string>
+    <string name="agregar">Agregar</string>
+</resources>
